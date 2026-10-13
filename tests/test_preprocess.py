@@ -1,6 +1,5 @@
 import numpy as np
 import pytest
-
 from time_series_classification.data import minmax, pad_or_truncate, preprocess, to_channels_first, zscore
 
 
