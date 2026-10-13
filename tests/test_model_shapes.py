@@ -1,7 +1,7 @@
 import pytest
 import torch
-from time_series_classification.data import SignalDataset
 
+from time_series_classification.data import SignalDataset
 from time_series_classification.models import CNN1D
 
 
